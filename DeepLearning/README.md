@@ -1,1 +1,1 @@
-## My notes as i go through databookuw.com, and the accompnying playlist
+## My notes as i go through databookuw.com, and the accompanying playlist
