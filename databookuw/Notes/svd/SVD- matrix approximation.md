@@ -44,22 +44,25 @@ compuing outer products results in a rank 1 matrix, as the second (row) vector i
 
 this can simply be written as 
 
-$$
-X = \hat{U} \hat{\Sigma} V^{T}  
-$$
+$$X = \hat{U} \hat{\Sigma} V^{T}  $$
 
 (which is called economic svd)
 
+
  ---
  
-  >SVD can be interpreted as approximating a higher rank matrix as a sum of rank 1 matrices.
+ SVD can be interpreted as approximating a higher rank matrix as a sum of rank 1 matrices.
   
   
 
-### Eckard-Young Theorem [1936]
+### Eckard-Young Theorem 
+
+best possible matrix approximation of $X$ of rank $r$ is given by first $r$ truncated SVD  
+
+$$argmin(|| X - \tilde{X} ||_{F} ) = \tilde{X}\tilde{\Sigma}\tilde{V}^{T} 
+$$
 
 
-$$argmin(|| X - \tilde{X} ||_{F} ) = \tilde{X}\tilde{\Sigma}\tilde{V}^{T} $$
 
 s.t. $\ rank(\tilde{X}) = r$ 
 
@@ -68,4 +71,14 @@ s.t. $\ rank(\tilde{X}) = r$
 
 > > L2 : vector norm, ![[Pasted image 20211116015259.png]]
 
->> Frobenius norm: ![[Pasted image 20211116015643.png]]
+>> Frobenius norm (for matrices): ![[Pasted image 20211116015643.png]]
+
+
+
+
+
+> keep in mind that $\tilde{U}$ is a long, skinny matrix ($n\times r$), and so $\tilde{U}^{T}$ will be a short, fat matrix ($r\times n$)
+ the consequence of this is that:
+ 
+ > $\tilde{U}^{T}\tilde{U}=I_{r\times r}$ but,  $\tilde{U}\tilde{U}^{T}\ne I_{r\times r}$
+
