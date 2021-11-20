@@ -61,7 +61,7 @@ v_{1} & v_{2} & . & v_{n}\\
 
 \end{bmatrix}^T 
 $$
-
+![[Pasted image 20211119232938.png]]
 
 where $u, v$ are unitry matrices (unitary means the transpose is the inverse)
 

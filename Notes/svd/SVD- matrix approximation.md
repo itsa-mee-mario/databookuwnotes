@@ -55,6 +55,8 @@ $$
   >SVD can be interpreted as approximating a higher rank matrix as a sum of rank 1 matrices.
   
   
+  ![[Pasted image 20211119232945.png]]
+  
 
 ### Eckard-Young Theorem [1936]
 
