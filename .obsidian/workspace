@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "096aaa2dedeb8210",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e5f90c95cf85e7",
+        "type": "split",
+        "children": [
+          {
+            "id": "60ea80dcc276630a",
+            "type": "leaf",
+            "dimension": 68.562874251497,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/svd/Linear system of equations, least square.md",
+                "mode": "preview"
+              }
+            },
+            "group": "c6284240943bb672"
+          },
+          {
+            "id": "7f4f003db46f2754",
+            "type": "leaf",
+            "dimension": 31.437125748502993,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/svd/Linear system of equations, least square.md",
+                "mode": "source"
+              }
+            },
+            "group": "c6284240943bb672"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "936bff4b0c2ade7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc52c7ccc14ecdb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e3f9c399bea8c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "864670b1e2757551",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee58fbc063ed3020",
+    "type": "split",
+    "children": [
+      {
+        "id": "325cffd175cd927e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce105beee1620a40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/svd/Linear system of equations, least square.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "60ea80dcc276630a",
+  "lastOpenFiles": [
+    "Notes/svd/Linear system of equations, least square.md",
+    "Notes/svd/Linear Regression!.md",
+    "SVD to solve a linear system of equations.md",
+    "Notes/svd/Unitary transforms.md",
+    "Notes/svd/SVD.md",
+    "Notes/svd/SVD- matrix approximation.md",
+    "Assets/Pasted image 20211123101119.png",
+    "Fourier Transform.md",
+    "Notes/svd/index.md",
+    "README.md"
+  ]
+}
