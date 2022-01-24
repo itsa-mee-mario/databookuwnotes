@@ -1,0 +1,8 @@
+1. [[SVD]]
+2. [[SVD- matrix approximation]]
+3. [[Dominant Correlations]]
+4. [[Unitary transforms]]
+5.  [[Linear system of equations, least square]]
+6. [[SVD to solve a linear system of equations]]
+7. [[SVD- matrix approximation]]
+8. [[Linear Regression!]]

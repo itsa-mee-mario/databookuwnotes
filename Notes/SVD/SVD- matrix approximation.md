@@ -32,7 +32,7 @@ $$
 $$
 
 by taking the first r rows/colums/ etc. we get an approximation 
-$$\approx \tilde{X}\tilde{\Sigma}\tilde{V}^{T}$$
+$$\approx \tilde{U}\tilde{\Sigma}\tilde{V}^{T}$$
 
 (only first m values of the matrix $U$ and $V$ are important, and all the others get multiplied by zeroes)
 
@@ -58,7 +58,7 @@ $$
   ![[Pasted image 20211119232945.png]]
   
 
-### Eckard-Young Theorem [1936]
+### Eckard-Young Theorem 
 
 
 $$argmin(|| X - \tilde{X} ||_{F} ) = \tilde{X}\tilde{\Sigma}\tilde{V}^{T} $$
@@ -71,3 +71,5 @@ s.t. $\ rank(\tilde{X}) = r$
 > > L2 : vector norm, ![[Pasted image 20211116015259.png]]
 
 >> Frobenius norm: ![[Pasted image 20211116015643.png]]
+
+

@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e5f90c95cf85e7",
-        "type": "split",
-        "children": [
-          {
-            "id": "60ea80dcc276630a",
-            "type": "leaf",
-            "dimension": 68.562874251497,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/svd/Linear system of equations, least square.md",
-                "mode": "preview"
-              }
-            },
-            "group": "c6284240943bb672"
-          },
-          {
-            "id": "7f4f003db46f2754",
-            "type": "leaf",
-            "dimension": 31.437125748502993,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/svd/Linear system of equations, least square.md",
-                "mode": "source"
-              }
-            },
-            "group": "c6284240943bb672"
+        "id": "60ea80dcc276630a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/PCA/Untitled.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224
   },
   "right": {
     "id": "ee58fbc063ed3020",
@@ -90,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/svd/Linear system of equations, least square.md",
+                "file": "Notes/PCA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +89,15 @@
   },
   "active": "60ea80dcc276630a",
   "lastOpenFiles": [
-    "Notes/svd/Linear system of equations, least square.md",
-    "Notes/svd/Linear Regression!.md",
-    "SVD to solve a linear system of equations.md",
-    "Notes/svd/Unitary transforms.md",
-    "Notes/svd/SVD.md",
-    "Notes/svd/SVD- matrix approximation.md",
-    "Assets/Pasted image 20211123101119.png",
-    "Fourier Transform.md",
-    "Notes/svd/index.md",
-    "README.md"
+    "Notes/PCA/Untitled.md",
+    "Notes/SVD/Dominant Correlations.md",
+    "Notes/SVD/Unitary transforms.md",
+    "Notes/SVD/SVD- matrix approximation.md",
+    "Notes/SVD/SVD.md",
+    "README.md",
+    "Notes/SVD/SVD to solve a linear system of equations.md",
+    "Notes/SVD/Linear system of equations, least square.md",
+    "Notes/SVD/Linear Regression!.md",
+    "Notes/SVD/index_svd.md"
   ]
 }
