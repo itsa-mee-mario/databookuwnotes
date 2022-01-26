@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/PCA/Truncation.md",
+            "file": "Notes/PCA/Limitations of PCA, Importance of data alignment.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224,
-    "collapsed": true
+    "width": 224
   },
   "right": {
     "id": "ee58fbc063ed3020",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/PCA/Truncation.md",
+                "file": "Notes/PCA/Limitations of PCA, Importance of data alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "8081504b7f9146b8",
   "lastOpenFiles": [
-    "Notes/PCA/Truncation.md",
+    "Notes/PCA/Limitations of PCA, Importance of data alignment.md",
     "Notes/PCA/PCA.md",
+    "Notes/PCA/Index.md",
+    "Notes/PCA/Truncation.md",
     "Notes/PCA/Untitled.md",
     "Notes/SVD/Dominant Correlations.md",
     "Notes/SVD/Unitary transforms.md",
     "Notes/SVD/SVD- matrix approximation.md",
     "Notes/SVD/SVD.md",
-    "README.md",
-    "Notes/SVD/SVD to solve a linear system of equations.md",
-    "Notes/SVD/Linear system of equations, least square.md"
+    "README.md"
   ]
 }
