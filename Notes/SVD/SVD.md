@@ -3,7 +3,7 @@
 ---
 
 1. Data reduction
-2. Data-driven generalization of [[Fourier Transform]]
+2. Data-driven generalization of [[FT intro]] 
 3. Tailored to specefic problem 
 4. Guaranteed to exist
 5. Unique
@@ -17,7 +17,7 @@ Solve linear system of equation $AX=B$ for non-square A matrices, especially for
 
 scalable asf
 
-The basis for [[Principal Component Analysis]].
+The basis for [[PCA]].
 
 Face Rec, Reccomender systems, PageRank, etc. 
 
