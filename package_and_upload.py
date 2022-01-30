@@ -20,8 +20,3 @@ for file in files:
             content = "[[" + content + "]]"
         with open(os.path.join(dir, file_name + "_index"), "w") as f:
             f.write(content)
-# git add, commit and push
-
-os.system("git add .")
-os.system("git commit -m \"update\"")
-os.system("git push")
