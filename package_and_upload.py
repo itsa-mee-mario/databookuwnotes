@@ -1,13 +1,12 @@
-# in the Notes directory, for each folder, create a file called index_foldername where it doesnt exist
-# create a index of format
-'''
-1. [[File 1]]
-2. [[File 2]]
-'''
+
 
 import os
 import sys
 
+# move images to assets folder
+os.system("mv *.png Assets")
+
+# create index files
 dir = "Notes"
 files = os.listdir(dir)
 for file in files:
@@ -20,3 +19,5 @@ for file in files:
             content = "[[" + content + "]]"
         with open(os.path.join(dir, file_name + "_index"), "w") as f:
             f.write(content)
+            
+
