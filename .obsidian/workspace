@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Fourier Transform/Fourier Series.md",
+            "file": "Notes/Fourier Transform/Fourier Transform.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224,
-    "collapsed": true
+    "width": 224
   },
   "right": {
     "id": "ee58fbc063ed3020",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Fourier Transform/Fourier Series.md",
+                "file": "Notes/Fourier Transform/Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "8081504b7f9146b8",
   "lastOpenFiles": [
+    "Notes/Fourier Transform/Fourier Transform.md",
     "Notes/Fourier Transform/Fourier Series.md",
     "Notes/Fourier Transform/index_ft.md",
     "Notes/Fourier Transform/FT intro.md",
@@ -98,7 +98,6 @@
     "Notes/SVD/SVD.md",
     "Notes/SVD/index_svd.md",
     "Notes/PCA/Randomised SVD.md",
-    "Notes/PCA/PCA.md",
-    "Notes/PCA/Truncation.md"
+    "Notes/PCA/PCA.md"
   ]
 }
