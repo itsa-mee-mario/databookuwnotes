@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8081504b7f9146b8",
+        "id": "903d88446b5fbd90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Fourier Transform/Fourier Transform.md",
+            "file": "Notes/SVD/index_svd.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 339
   },
   "right": {
     "id": "ee58fbc063ed3020",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Fourier Transform/Fourier Transform.md",
+                "file": "Notes/SVD/index_svd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8081504b7f9146b8",
+  "active": "903d88446b5fbd90",
   "lastOpenFiles": [
-    "Notes/Fourier Transform/Fourier Transform.md",
-    "Notes/Fourier Transform/Fourier Series.md",
-    "Notes/Fourier Transform/index_ft.md",
-    "Notes/Fourier Transform/FT intro.md",
-    "Notes/PCA/index_pca.md",
-    "Notes/PCA/Limitations of PCA, Importance of data alignment.md",
-    "Notes/SVD/SVD.md",
     "Notes/SVD/index_svd.md",
-    "Notes/PCA/Randomised SVD.md",
-    "Notes/PCA/PCA.md"
+    "Notes/PCA/index_pca.md",
+    "Notes/Fourier Transform/index_ft.md",
+    "CodeSnippets/a.jpg",
+    "Assets/Pasted image 20220430232025.png",
+    "Assets/databook.pdf",
+    "Notes/Fourier Transform/DFT.md",
+    "Notes/Fourier Transform/Fourier Series.md",
+    "Pasted image 20220426162652.png",
+    "Pasted image 20220426162636.png"
   ]
 }
