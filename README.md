@@ -1,5 +1,5 @@
 # databookuwnotes
-my notes as i go through DataBookUW
+my notes as i go through DataBookUW. (Store as an obsidian vault)
 
 # Topics (so far)
 1. SVD
