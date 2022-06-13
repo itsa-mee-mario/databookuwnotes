@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/SVD/index_svd.md",
+            "file": "Notes/SVD/SVD.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SVD/index_svd.md",
+                "file": "Notes/SVD/SVD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "903d88446b5fbd90",
   "lastOpenFiles": [
+    "Notes/SVD/SVD.md",
     "Notes/SVD/index_svd.md",
     "Notes/PCA/index_pca.md",
     "Notes/Fourier Transform/index_ft.md",
@@ -97,7 +98,6 @@
     "Assets/databook.pdf",
     "Notes/Fourier Transform/DFT.md",
     "Notes/Fourier Transform/Fourier Series.md",
-    "Pasted image 20220426162652.png",
-    "Pasted image 20220426162636.png"
+    "Pasted image 20220426162652.png"
   ]
 }
